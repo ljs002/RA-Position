@@ -18,4 +18,4 @@ If you have been introduced to programming and are interested in further develop
 
 An interest or background in history is not required but would be a plus.
 
-Interested applicants: [fork](https://help.github.com/articles/fork-a-repo) this repository, edit this document to briefly describe yourself and why you are interested in the position. Provide links supporting documentation such as resumes, portfolios, Web sites, etc. Then send a [pull request](https://help.github.com/articles/using-pull-requests) with your changes.
+**Interested applicants** should [fork](https://help.github.com/articles/fork-a-repo) this repository, edit this document to briefly describe yourself and why you are interested in the position. Provide links supporting documentation such as resumes, portfolios, Web sites, etc. Then send a [pull request](https://help.github.com/articles/using-pull-requests) with your changes.
