@@ -1,21 +1,8 @@
-**Research Assistant position**
+**Research Assistant Application**
 
-Flexible student work opportunity: design, UX, user relations
+My name is Lindsey Smith, and I am a first year SILS student at UNC, but I am also a part of the dual-degree program in Public History from NCSU. I will receive my  MA in Public History in the summer. Through my coursework, I have learned some basic coding skills and am very interested in expanding my skillset in that area. Additionally, because of my background in Public History, I am very curious about how information science and information technology professionals can best serve the users of historical documents in archives, special collections, and on the web as items are increasingly digitized. My background in History is broad, with some training of the history of the West and the American Frontier as well as some training in Medieval history, particularly the history of Christian monasticism.
 
-**Start** as soon as possible
+**Documents, Portfolios, Etc.**
+My resume and a short list of projects I have worked on thus far can be found on <a href="http://www.unc.edu/~ljs002/">my website.</a>
 
-**Duration** through summer 2014, possibly longer
-
-**Hours** negotiable
-
-**Pay** $12 per hour
-
-I (Ryan Shaw, <http://aeshin.org/>) am looking for a student to assist me with my studies of systems for organizing documents of historical significance. 
-
-The position would be ideal for someone interested in (Web) design, user experience, and/or user relations (gathering feedback, providing documentation). 
-
-If you have been introduced to programming and are interested in further developing your skills, this could be a good opportunity, but no programming background is required to apply.
-
-An interest or background in history is not required but would be a plus.
-
-**To apply** please [fork](https://help.github.com/articles/fork-a-repo) this repository, edit this document to briefly describe yourself and why you are interested in the position. Provide links to supporting documentation such as resumes, portfolios, Web sites, etc. Then send a [pull request](https://help.github.com/articles/using-pull-requests) with your changes.
+I am very interested in this position and look forward to hearing from you!
